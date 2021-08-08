@@ -8,4 +8,6 @@ rescue zeroDivisioError
   puts "Division by zero error"
 rescue TypeError
   puts "Wrong Data Type"
+rescue TypeError => e
+  puts e # We can store the details of error within a variable 'e' then output it.
 end
