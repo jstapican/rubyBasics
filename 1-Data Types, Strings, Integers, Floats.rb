@@ -13,7 +13,7 @@ phrase2 = "   I have no more spaces before and after.   "
 
 puts "1. .upcase() -> e.g. " + phrase.upcase()
 puts "2. .downcase() -> e.g. " + phrase.downcase()
-puts "3. .trip() -> e.g. " + phrase2.strip()
+puts "3. .strip() -> e.g. " + phrase2.strip()
 print "4. .length() -> e.g. "
 puts phrase2.length()
 print "5. .include? -> e.g. "

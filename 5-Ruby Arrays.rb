@@ -20,7 +20,7 @@ family[5] = "Edna"
 puts family
 puts "8. Count how many entries inside an array."
 puts friends.length()
-puts "9. Checking if "Lance" entry is inside an array."
+puts "9. Checking if 'Lance' entry is inside an array."
 puts friends.include? "Lance"
 puts "10. Reverse the sorting arrangement of entries in an array."
 puts friends.reverse()

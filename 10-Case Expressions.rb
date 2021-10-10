@@ -25,3 +25,4 @@ end
 end
 
 puts get_day_name("Mon")
+#puts get_day_name("")
